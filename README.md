@@ -51,3 +51,8 @@
 ![c4pote github stats](https://github-readme-stats.vercel.app/api?username=c4pote&include_all_commits=true&count_private=true&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![c4pote Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=c4pote&layout=compact&langs_count=8&hide_border=true)
 
+
+<br/>
+---
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=c4pote)
+
