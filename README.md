@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Gustavo Lima!](https://www.linkedin.com/in/gustavo-lima-b150421b/) 
+
+### About Me 🚀
+🌱  I’m a Full Cycle developer and IT Manager.</br>
+👨‍💻  I am passionate about Dev & I enjoy learning new things. </br>
 
 - 🔭 I’m currently working on Jatinox
 - 🌱 I’m currently learning Elixir, FaunaDB, Rancher, Kubernetes
@@ -37,13 +41,13 @@
 
 
 ---
-
+<!--
 ### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/223tuensvl4fudxt5fvxspdkq)
-<br/>
+<br/> 
 ---
-
-
-[![c4pote github stats](https://github-readme-stats.vercel.app/api?username=c4pote&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+-->
+![c4pote github stats](https://github-readme-stats.vercel.app/api?username=c4pote&include_all_commits=true&count_private=true&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![c4pote Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=c4pote&layout=compact&langs_count=8&hide_border=true)
 
