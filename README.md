@@ -9,9 +9,14 @@
 - 💬 Ask me about Postgres, Mysql, Maker Softwell, Scriptcase, React JS, Nodejs, Python, PHP, Linux, GLPI and OCS.
 - 📫 How to reach me: ![alt text](https://icons.iconarchive.com/icons/uiconstock/socialmedia/16/Instagram-icon.png "Instagram") [Instagram](https://www.instagram.com/_gulima_/) or ![alt text](https://icons.iconarchive.com/icons/danleech/simple/16/linkedin-icon.png "Linkedin") [Linkedin](https://www.linkedin.com/in/gustavo-lima-b150421b/)
 
-
-
 <br/>
+ 
+ ---
+ 
+ 
+
+
+
 
 ### Languages and Tools:
 
@@ -53,6 +58,15 @@
 
 
 <br/>
+
 ---
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=c4pote)
+
+
+</p>
+
+![Gustavo Lima](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+<br>
+</p>
 
