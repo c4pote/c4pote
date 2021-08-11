@@ -10,8 +10,7 @@
 - 📫 How to reach me: ![alt text](https://icons.iconarchive.com/icons/uiconstock/socialmedia/16/Instagram-icon.png "Instagram") [Instagram](https://www.instagram.com/_gulima_/) or ![alt text](https://icons.iconarchive.com/icons/danleech/simple/16/linkedin-icon.png "Linkedin") [Linkedin](https://www.linkedin.com/in/gustavo-lima-b150421b/)
 
 <br/>
- 
- ---
+
  
  <!--START_SECTION:waka-->
 ```text
@@ -20,6 +19,7 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 
+---
 
 
 ### Languages and Tools:
